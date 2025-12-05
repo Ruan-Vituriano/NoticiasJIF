@@ -1,19 +1,18 @@
-{
-    "noticias": [
-        {
-            "titulo": "Novo projeto de desenvolvimento sustentável lançado",
-            "data": "2024-01-15",
-            "curtidas": 342
-        },
-        {
-            "titulo": "Tecnologia de IA revoluciona setor de saúde",
-            "data": "2024-01-14",
-            "curtidas": 528
-        },
-        {
-            "titulo": "Conferência internacional de inovação acontece este mês",
-            "data": "2024-01-13",
-            "curtidas": 215
-        }
-    ]
-}
+[
+  {
+    "id": 1,
+    "categoria": "Eventos",
+    "titulo": "Semana de Ciência e Tecnologia do IFPB",
+    "data": "2025-11-29",
+    "descrição": "A Semana de Ciência e Tecnologia do IFPB é um evento anual que visa promover a divulgação científica e tecnológica entre os estudantes e a comunidade em geral. Durante essa semana, são realizadas palestras, workshops, exposições e atividades interativas que abordam temas relevantes nas áreas de ciência, tecnologia, engenharia e inovação.",
+    "curtidas": 0
+  },
+  {
+    "id": 2,
+    "categoria": "Oportunidades",
+    "titulo": "Novas Bolsas de pesquisa abertas",
+    "descrição": "O IFPB está com novas bolsas de pesquisa abertas para estudantes interessados em desenvolver projetos inovadores nas áreas de ciência e tecnologia. As bolsas oferecem suporte financeiro e orientação acadêmica para que os alunos possam explorar suas ideias e contribuir para o avanço do conhecimento.",
+    "data": "2025-10-18",
+    "curtidas": 0
+  }
+]
