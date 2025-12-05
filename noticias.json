@@ -1,0 +1,19 @@
+{
+    "noticias": [
+        {
+            "titulo": "Novo projeto de desenvolvimento sustentável lançado",
+            "data": "2024-01-15",
+            "curtidas": 342
+        },
+        {
+            "titulo": "Tecnologia de IA revoluciona setor de saúde",
+            "data": "2024-01-14",
+            "curtidas": 528
+        },
+        {
+            "titulo": "Conferência internacional de inovação acontece este mês",
+            "data": "2024-01-13",
+            "curtidas": 215
+        }
+    ]
+}
